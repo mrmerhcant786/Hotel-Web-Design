@@ -2,6 +2,8 @@
 Create a Web Design of a Hotel using Canva while learning The Complete 2023 Web Development Bootcamp by Angela Yu Udemy
 
 link of the canva design 👇
+
+
 https://www.canva.com/design/DAFa2N4VjJs/WVwU2oKbNM5BiGkd2BndTw/view?utm_content=DAFa2N4VjJs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Screenshot
